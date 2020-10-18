@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-18T03:53:31Z" name="ExceptionsTests" finished-at="2020-10-18T03:53:38Z" duration-ms="7599">
+    <groups>
+    </groups>
+    <test started-at="2020-10-18T03:53:31Z" name="NotvisibleTest" finished-at="2020-10-18T03:53:38Z" duration-ms="7599">
+      <class name="com.herokuapp.theinternet.ExceptionTests">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.herokuapp.theinternet.ExceptionTests@4e50c791]" started-at="2020-10-18T03:53:31Z" name="setUp" finished-at="2020-10-18T03:53:33Z" duration-ms="2061" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="disabledElementTest()[pri:0, instance:com.herokuapp.theinternet.ExceptionTests@4e50c791]" started-at="2020-10-18T03:53:33Z" name="disabledElementTest" finished-at="2020-10-18T03:53:38Z" duration-ms="5401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disabledElementTest -->
+        <test-method is-config="true" signature="endUp()[pri:0, instance:com.herokuapp.theinternet.ExceptionTests@4e50c791]" started-at="2020-10-18T03:53:38Z" name="endUp" finished-at="2020-10-18T03:53:38Z" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endUp -->
+      </class> <!-- com.herokuapp.theinternet.ExceptionTests -->
+    </test> <!-- NotvisibleTest -->
+  </suite> <!-- ExceptionsTests -->
+</testng-results>
